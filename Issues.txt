@@ -1,1 +1,2 @@
 1.Scrolling is not working in candidates section of jobposts
+2.Have you worked on Playwright?
