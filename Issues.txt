@@ -1,0 +1,1 @@
+1.Scrolling is not working in candidates section of jobposts
